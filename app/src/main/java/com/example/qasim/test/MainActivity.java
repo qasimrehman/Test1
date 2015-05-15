@@ -29,6 +29,7 @@ public class MainActivity extends ActionBarActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         int id = item.getItemId();
         int neww=1;
+        ////////////////////
         //branch2  change
         //branch3 change
         //noinspection SimplifiableIfStatement
